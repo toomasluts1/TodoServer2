@@ -126,3 +126,10 @@ C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.cspr
 C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.csproj.CopyComplete
 C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.dll
 C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.pdb
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.Migrations.InitialMigration.resources
+C:\Users\opilane\source\repos\TodoServer2\TodoServer2\obj\Debug\TodoServer2.csproj.GenerateResource.cache
